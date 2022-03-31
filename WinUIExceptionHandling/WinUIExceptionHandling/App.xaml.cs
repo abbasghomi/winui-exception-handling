@@ -28,7 +28,7 @@ namespace WinUIExceptionHandling
                .AddSingleton<IApplicationExceptionHandler>(_applicationExceptionHandler)
                .AddSingleton<MainWindow>()
                .BuildServiceProvider());
-            
+
             this.InitializeComponent();
         }
 
