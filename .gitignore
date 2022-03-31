@@ -50,3 +50,13 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+.vs/
+
+WinUIExceptionHandling/WinUIExceptionHandling/bin/
+
+WinUIExceptionHandling/WinUIExceptionHandling/obj/
+
+WinUIExceptionHandling/WinUIExceptionHandling (Package)/bin/
+
+WinUIExceptionHandling/WinUIExceptionHandling (Package)/obj/
